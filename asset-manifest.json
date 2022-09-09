@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-api-key-env/static/css/main.073c9b0a.css",
+    "main.js": "/react-api-key-env/static/js/main.70f8fb04.js",
+    "static/js/787.61293b9a.chunk.js": "/react-api-key-env/static/js/787.61293b9a.chunk.js",
+    "static/media/logo.svg": "/react-api-key-env/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-api-key-env/index.html",
+    "main.073c9b0a.css.map": "/react-api-key-env/static/css/main.073c9b0a.css.map",
+    "main.70f8fb04.js.map": "/react-api-key-env/static/js/main.70f8fb04.js.map",
+    "787.61293b9a.chunk.js.map": "/react-api-key-env/static/js/787.61293b9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.70f8fb04.js"
+  ]
+}
